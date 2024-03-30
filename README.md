@@ -27,4 +27,4 @@
 |2월 18일|2회차|CH 3|- 액션, 계산, 데이터의 차이를 알기<br>- 실제 예제에 적용해보기|[240218-Chapter3.md](https://github.com/joohyeson/FunctionalProgrammingStudy/blob/main/240218-Chapter3.md)|
 |2월 25일|3회차|CH 4 ~ 5|- 재사용성이 높도록 액션함수에서 계산함수를 분리하자, 더 좋은 액션 만들기(역할 분리) |[240225-Chapter4-5.md](https://github.com/joohyeson/FunctionalProgrammingStudy/blob/main/240225-Chapter4-5.md)|
 |3월 18일|4회차|CH 6|- 변경 가능한 데이터 구조를 가진 언어에서 불변성 유지하기(카피 온 라이트) |[240318-Chapter6.md](https://github.com/joohyeson/FunctionalProgrammingStudy/blob/main/240318-Chapter6.md)|
-|3월 30일|5회차|CH 7-8|- 방어적 복사와 계층형 설계(직접 구현) |[240330-Chapter7-8.md, ](https://github.com/joohyeson/FunctionalProgrammingStudy/blob/main/240330-Chapter7-8.md)|
+|3월 30일|5회차|CH 7-8|- 방어적 복사와 계층형 설계(직접 구현) |[240330-Chapter7-8.md](https://github.com/joohyeson/FunctionalProgrammingStudy/blob/main/240330-Chapter7-8.md)|
